@@ -1,4 +1,4 @@
-#importations ui
+#importations 
 from tkinter import *
 from random import *
 
